@@ -184,6 +184,22 @@ plt.axis('off')
 - 45° rotated image is displayed  
 - 90° rotated image is displayed
 
+<img width="303" height="385" alt="EXP-4 1" src="https://github.com/user-attachments/assets/816c9db9-585d-4590-affe-725f6a8223a7" />
+
+<img width="307" height="386" alt="EXP-4 2" src="https://github.com/user-attachments/assets/cec8526d-3401-42f6-8170-ca70691427a3" />
+
+<img width="492" height="271" alt="EXP-4 3" src="https://github.com/user-attachments/assets/38e9d716-d9d3-468f-9863-a34bf28fbdab" />
+
+<img width="306" height="398" alt="EXP-4 4" src="https://github.com/user-attachments/assets/7cbdab19-e644-4c54-a65d-0d105ca9c1b6" />
+
+<img width="312" height="390" alt="EXP-4 5" src="https://github.com/user-attachments/assets/49e66cb3-c52f-487c-a7f4-381e60de61e0" />
+
+<img width="308" height="387" alt="EXP-4 6" src="https://github.com/user-attachments/assets/ce4638ef-1ec0-460a-a265-857df015eb59" />
+
+
+
+
+
 
   
 
